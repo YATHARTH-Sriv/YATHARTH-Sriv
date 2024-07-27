@@ -3,7 +3,7 @@
 - 🌱 I’m a Full-Stack Developer who loves to build and develop new projects
 
 - 📫 How to reach me
--  email: yatharthsriv182gmail.com
+-  email: yatharthsriv18@gmail.com
 -   Linkedin: https://www.linkedin.com/in/yatharth-srivastava-0b0382261/
 - check out my projects on : https://yatharthportfolio.vercel.app/
 
