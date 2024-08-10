@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yatharth Srivastava
-- 👀 I’m interested in Web3.0 And AI world
+- 👀 I’m interested in Technology and AI world
 - 🌱 I’m a Full-Stack Developer who loves to build and develop new projects
 
 - 📫 How to reach me
