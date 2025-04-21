@@ -136,7 +136,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
 
 ## 🎓 Education
 
-- **BITS GOA** - Computer Science Engineering
+- **BITS GOA** - Engineering
 
 ## 📫 Connect With Me
 
