@@ -142,7 +142,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
 
 ## 📌 Current Focus
 
-
+### currently reading: https://solanahowitworks.xyz/
 
 
 ## 🎓 Education
