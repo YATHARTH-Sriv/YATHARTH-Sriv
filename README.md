@@ -35,8 +35,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
         <a href="https://reactgen.vercel.app/" target="_blank">
           <img src="https://www.yatharth-sriv.me/_next/image?url=%2Freactgen.png&w=640&q=100" width="100%" alt="ReactGen"/>
         </a>
-
-        
+        <br/>
         <p>
           <a href="https://github.com/YATHARTH-Sriv/ReactGen" target="_blank">
             <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
