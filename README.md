@@ -54,7 +54,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
       </div>
     </td>
       <td width="50%">
-        <h3 align="center">SOLagent</h3>
+        <h3 align="center">SOLAgent</h3>
         <div align="center">
           <a href="https://www.yatharth-sriv.me/" target="_blank">
             <img src="https://raw.githubusercontent.com/YATHARTH-Sriv/project-images/refs/heads/main/Screenshot%202025-04-21%20062713.png?token=GHSAT0AAAAAAC4M6AFZNG6CGU6EZV3FQ43E2AFUZHQ" width="100%" alt="SOLagent"/>
