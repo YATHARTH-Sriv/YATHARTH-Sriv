@@ -66,7 +66,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
               <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
             </a>
         </p>
-        <p><strong>Typescript, Nextjs, LLM </strong>
+        <p><strong>Typescript, Nextjs, LLM , Solana/web3.js</strong>
           <br/>
           <br/>
           -Well Doing Transactions onchain Buying new Tokens analysing your spendings how your investments are performing everything can be achieved with the help of SOLagent
