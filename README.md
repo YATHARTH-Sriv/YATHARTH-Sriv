@@ -1,43 +1,19 @@
-- 👋 Hi, I’m Yatharth Srivastava
-- 👀 I’m interested in Technology and AI world
-- 🌱 I’m a Full-Stack Developer who loves to build and develop new projects
-
-- 📫 How to reach me
--  email: yatharthsriv18@gmail.com
--   Linkedin: https://www.linkedin.com/in/yatharth-srivastava-0b0382261/
-- check out my projects on : https://yatharthportfolio.vercel.app/
-
-
-<!---
-YATHARTH-Sriv/YATHARTH-Sriv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 # Yatharth Srivastava
 
 [![GitHub followers](https://img.shields.io/github/followers/YATHARTH-Sriv?logo=GitHub&style=for-the-badge)](https://github.com/YATHARTH-Sriv)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://yatharth-sriv.me)
-[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@YatharthSriv)
+
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yatharth_sriv)
+[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yatharth-sriv.me/)
+[![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://yatharthdev.hashnode.dev/)
 
 ## 👨‍💻 Solana Developer
 
-> Building the future of decentralized applications with Rust, TypeScript, and Web3
+> Currently learning about Solana architecture and buidling solutions with Rust, TypeScript, and Web3
 
-I'm a blockchain developer specializing in Solana development, currently studying at BITS GOA. My focus is on creating efficient, reliable, and user-friendly decentralized applications.
+I'm a Full Stack Web3 Developer building apps for onboarding more people on Solana .
 
 ## 🔧 Tech Stack
 
-```rust
-fn main() {
-    let tech_stack = vec![
-        "Rust", "TypeScript", "JavaScript", "React", "Node.js", 
-        "MongoDB", "PostgreSQL", "Express", "Prisma", "Solana"
-    ];
-    
-    println!("Building the decentralized future with: {:?}", tech_stack);
-}
-```
 
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -58,7 +34,7 @@ fn main() {
       <h3 align="center">ReactGen</h3>
       <div align="center">
         <a href="https://reactgen.vercel.app/" target="_blank">
-          <img src="https://i.imgur.com/placeholder-reactgen.png" width="100%" alt="ReactGen"/>
+          <img src="https://www.dropbox.com/scl/fi/f07dwmr3tayoiol4v5j72/Screenshot-2025-04-21-053855.png?rlkey=3s9clex4wlcbrson5cbgt3olu&st=qp1q64ht&dl=0" width="100%" alt="ReactGen"/>
         </a>
         <p>
           <a href="https://github.com/YATHARTH-Sriv/ReactGen" target="_blank">
@@ -104,31 +80,8 @@ fn main() {
 
 ## 📌 Current Focus
 
-```typescript
-interface CurrentFocus {
-  languages: string[];
-  frameworks: string[];
-  projects: string[];
-  learning: string[];
-}
 
-const myFocus: CurrentFocus = {
-  languages: ["Rust", "TypeScript"],
-  frameworks: ["React", "Anchor"],
-  projects: ["Solana dApps", "Web3 Integrations"],
-  learning: ["Advanced Rust Patterns", "Smart Contract Security"]
-};
-```
 
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Understanding Solana's Programming Model](https://hashnode.com/)
-- [Rust for JavaScript Developers: A Gentle Introduction](https://hashnode.com/)
-- [Building Your First Solana dApp: A Step-by-Step Guide](https://hashnode.com/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [More blog posts...](https://hashnode.com/@YatharthSriv)
 
 ## 🎓 Education
 
@@ -137,10 +90,10 @@ const myFocus: CurrentFocus = {
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:yatharthsriv18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://github.com/YATHARTH-Sriv"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/yatharth_sriv"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/yatharth-srivastava-0b0382261/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
