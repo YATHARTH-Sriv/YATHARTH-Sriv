@@ -37,12 +37,11 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
         </a>
         <br/>
         <br/>
-        <br/>
         <p>
-          <a href="https://github.com/YATHARTH-Sriv/ReactGen" target="_blank">
+          <a href="https://github.com/YATHARTH-Sriv/reactgen" target="_blank">
             <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
           </a>
-          <a href="https://reactgen.vercel.app/" target="_blank">
+          <a href="https://reactgen.yatharth-sriv.me/" target="_blank">
             <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
@@ -55,8 +54,10 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
         <a href="https://yaphouse.yatharth-sriv.me/" target="_blank">
           <img src="https://raw.githubusercontent.com/YATHARTH-Sriv/project-images/refs/heads/main/Screenshot%202025-04-21%20053855.png?token=GHSAT0AAAAAAC4M6AFYAUBKYDT6T26I4Z3Q2AFT2TQ" width="100%" alt="YapHouse"/>
         </a>
+        <br/>
+        <br/>
         <p>
-          <a href="https://github.com/YATHARTH-Sriv/YapHouse" target="_blank">
+          <a href="https://github.com/YATHARTH-Sriv/yaphouse" target="_blank">
             <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
           </a>
           <a href="https://yaphouse.yatharth-sriv.me/" target="_blank">
