@@ -165,7 +165,9 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
 </p>
 
 <p align="center">
-  <i>⚡ Fun fact: The Solana blockchain can process 65,000 transactions per second!</i>
+  <i>⚡ Build Something That Makes Sense and Money
+  <br/> -Yatharth 
+  </i>
 </p>
 
 ---
