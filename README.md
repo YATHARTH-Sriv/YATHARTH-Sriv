@@ -83,7 +83,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
       <td width="50%">
         <h3 align="center">ReactGen</h3>
         <div align="center">
-          <a href="https://reactgen.vercel.app/" target="_blank">
+          <a href="https://reactgen.yatharth-sriv.me/" target="_blank">
             <img src="https://www.yatharth-sriv.me/_next/image?url=%2Freactgen.png&w=640&q=100" width="100%" alt="ReactGen"/>
           </a>
           <br/>
