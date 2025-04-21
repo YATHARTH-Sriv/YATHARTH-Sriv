@@ -96,7 +96,9 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
               <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
             </a>
         </p>
-        <p><strong>Typescript, Nextjs, LLM </strong>-With The power of AI the Speed in which you can ship features to your application has increased to another degree, and to help you ship your frontend faster and increase your productivity ReactGen is here for your help..</p>
+        <p><strong>Typescript, Nextjs, LLM </strong>
+          <br/>
+          -With The power of AI the Speed in which you can ship features to your application has increased to another degree, and to help you ship your frontend faster and increase your productivity ReactGen is here for your help..</p>
       </div>
     </td>
     <td width="50%">
@@ -115,7 +117,9 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
             <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Next.js, MongoDB, Prisma, LLM</strong> — Generate Your Content For Twitter Linkedin Hashnode Blogs and also post them too with the help of AI..</p>
+        <p><strong>Next.js, MongoDB, Prisma, LLM</strong>
+          <br/>
+          — Generate Your Content For Twitter Linkedin Hashnode Blogs and also post them too with the help of AI..</p>
       </div>
     </td>
   </tr>
