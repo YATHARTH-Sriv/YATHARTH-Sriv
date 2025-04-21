@@ -43,7 +43,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
             <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>React, TypeScript, Tailwind CSS</strong> — A sophisticated React component generator with real-time previews and code export capabilities.</p>
+        <p><strong>Typescript, Nextjs, LLM </strong>-With The power of AI the Speed in which you can ship features to your application has increased to another degree, and to help you ship your frontend faster and increase your productivity ReactGen is here for your help..</p>
       </div>
     </td>
     <td width="50%">
@@ -60,7 +60,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
             <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
           </a>
         </p>
-        <p><strong>Next.js, MongoDB, Prisma</strong> — A social platform designed for meaningful connections and discussions in topic-based communities.</p>
+        <p><strong>Next.js, MongoDB, Prisma, Solana/web3.js</strong> — People spend hours listening to podcasts and Twitter spaces but dont get compensated for this time, with the power of Solana YapHouse solves this.</p>
       </div>
     </td>
   </tr>
