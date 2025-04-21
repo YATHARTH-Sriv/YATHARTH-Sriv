@@ -1,7 +1,6 @@
 # Yatharth Srivastava
 
 [![GitHub followers](https://img.shields.io/github/followers/YATHARTH-Sriv?logo=GitHub&style=for-the-badge)](https://github.com/YATHARTH-Sriv)
-
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yatharth_sriv)
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yatharth-sriv.me/)
 [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://yatharthdev.hashnode.dev/)
@@ -34,7 +33,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
       <h3 align="center">ReactGen</h3>
       <div align="center">
         <a href="https://reactgen.vercel.app/" target="_blank">
-          <img src="https://www.dropbox.com/scl/fi/f07dwmr3tayoiol4v5j72/Screenshot-2025-04-21-053855.png?rlkey=3s9clex4wlcbrson5cbgt3olu&st=qp1q64ht&dl=0" width="100%" alt="ReactGen"/>
+          <img src="https://www.yatharth-sriv.me/_next/image?url=%2Freactgen.png&w=640&q=100" width="100%" alt="ReactGen"/>
         </a>
         <p>
           <a href="https://github.com/YATHARTH-Sriv/ReactGen" target="_blank">
@@ -51,7 +50,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
       <h3 align="center">YapHouse</h3>
       <div align="center">
         <a href="https://yaphouse.yatharth-sriv.me/" target="_blank">
-          <img src="https://i.imgur.com/placeholder-yaphouse.png" width="100%" alt="YapHouse"/>
+          <img src="https://drive.google.com/file/d/1oN4Hy22BZ_6L8AgB33mvtT59hkgpzlwl/view?usp=sharing" width="100%" alt="YapHouse"/>
         </a>
         <p>
           <a href="https://github.com/YATHARTH-Sriv/YapHouse" target="_blank">
