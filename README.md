@@ -50,7 +50,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
       <h3 align="center">YapHouse</h3>
       <div align="center">
         <a href="https://yaphouse.yatharth-sriv.me/" target="_blank">
-          <img src="https://drive.google.com/file/d/1oN4Hy22BZ_6L8AgB33mvtT59hkgpzlwl/view?usp=sharing" width="100%" alt="YapHouse"/>
+          <img src="https://asset.cloudinary.com/df8cktdi5/9e2a9a13395506d93e177fdd519b14b7" width="100%" alt="YapHouse"/>
         </a>
         <p>
           <a href="https://github.com/YATHARTH-Sriv/YapHouse" target="_blank">
