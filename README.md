@@ -5,7 +5,8 @@
 [![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://www.yatharth-sriv.me/)
 [![Blog](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://yatharthdev.hashnode.dev/)
 
-## 👨‍💻 Solana Developer
+## 👨‍💻 Full Stack Solana Developer
+<br/>
 
 > Currently learning about Solana architecture and buidling solutions with Rust, TypeScript, and Web3
 
