@@ -64,9 +64,6 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
             <a href="https://github.com/YATHARTH-Sriv/solagent" target="_blank">
               <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
             </a>
-            <a href="https://www.yatharth-sriv.me/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
-            </a>
         </p>
         <p><strong>Typescript, Nextjs, LLM </strong>
           <br/>
