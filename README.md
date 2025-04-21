@@ -31,25 +31,6 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">ReactGen</h3>
-        <div align="center">
-          <a href="https://reactgen.vercel.app/" target="_blank">
-            <img src="https://www.yatharth-sriv.me/_next/image?url=%2Freactgen.png&w=640&q=100" width="100%" alt="ReactGen"/>
-          </a>
-          <br/>
-          <br/>
-          <p>
-            <a href="https://github.com/YATHARTH-Sriv/reactgen" target="_blank">
-              <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
-            </a>
-            <a href="https://reactgen.yatharth-sriv.me/" target="_blank">
-              <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
-            </a>
-        </p>
-        <p><strong>Typescript, Nextjs, LLM </strong>-With The power of AI the Speed in which you can ship features to your application has increased to another degree, and to help you ship your frontend faster and increase your productivity ReactGen is here for your help..</p>
-      </div>
-    </td>
-    <td width="50%">
       <h3 align="center">YapHouse</h3>
       <div align="center">
         <a href="https://yaphouse.yatharth-sriv.me/" target="_blank">
@@ -68,12 +49,31 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
         <p><strong>Next.js, MongoDB, Prisma, Solana/web3.js</strong> — People spend hours listening to podcasts and Twitter spaces but dont get compensated for this time, with the power of Solana YapHouse solves this.</p>
       </div>
     </td>
+      <td width="50%">
+        <h3 align="center">SOLagent</h3>
+        <div align="center">
+          <a href="https://www.yatharth-sriv.me/" target="_blank">
+            <img src="https://raw.githubusercontent.com/YATHARTH-Sriv/project-images/refs/heads/main/Screenshot%202025-04-21%20062713.png?token=GHSAT0AAAAAAC4M6AFZNG6CGU6EZV3FQ43E2AFUZHQ" width="100%" alt="SOLagent"/>
+          </a>
+          <br/>
+          <br/>
+          <p>
+            <a href="https://github.com/YATHARTH-Sriv/solagent" target="_blank">
+              <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
+            </a>
+            <a href="https://www.yatharth-sriv.me/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+            </a>
+        </p>
+        <p><strong>Typescript, Nextjs, LLM </strong>-With The power of AI the Speed in which you can ship features to your application has increased to another degree, and to help you ship your frontend faster and increase your productivity ReactGen is here for your help..</p>
+      </div>
+    </td>
   </tr>
 </table>
 
 <hr></hr>
 
-## 🚀 WEB3 Projects
+## 🚀 More Projects
 
   <table>
     <tr>
@@ -100,7 +100,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
       <h3 align="center">Content Manager</h3>
       <div align="center">
         <a href="https://content-manager-ai.vercel.app/" target="_blank">
-          <img src="https://www.yatharth-sriv.me/_next/image?url=%2Fcontentmanager.png&w=640&q=100 width="100%" alt="Content-Manager"/>
+          <img src="https://www.yatharth-sriv.me/_next/image?url=%2Fcontentmanager.png&w=640&q=100" width="100%" alt="Content-Manager"/>
         </a>
         <br/>
         <br/>
