@@ -25,25 +25,26 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
-## 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">ReactGen</h3>
-      <div align="center">
-        <a href="https://reactgen.vercel.app/" target="_blank">
-          <img src="https://www.yatharth-sriv.me/_next/image?url=%2Freactgen.png&w=640&q=100" width="100%" alt="ReactGen"/>
-        </a>
-        <br/>
-        <br/>
-        <p>
-          <a href="https://github.com/YATHARTH-Sriv/reactgen" target="_blank">
-            <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
+## 🚀 WEB3 Projects
+
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">ReactGen</h3>
+        <div align="center">
+          <a href="https://reactgen.vercel.app/" target="_blank">
+            <img src="https://www.yatharth-sriv.me/_next/image?url=%2Freactgen.png&w=640&q=100" width="100%" alt="ReactGen"/>
           </a>
-          <a href="https://reactgen.yatharth-sriv.me/" target="_blank">
-            <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
-          </a>
+          <br/>
+          <br/>
+          <p>
+            <a href="https://github.com/YATHARTH-Sriv/reactgen" target="_blank">
+              <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
+            </a>
+            <a href="https://reactgen.yatharth-sriv.me/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+            </a>
         </p>
         <p><strong>Typescript, Nextjs, LLM </strong>-With The power of AI the Speed in which you can ship features to your application has increased to another degree, and to help you ship your frontend faster and increase your productivity ReactGen is here for your help..</p>
       </div>
@@ -65,6 +66,53 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
           </a>
         </p>
         <p><strong>Next.js, MongoDB, Prisma, Solana/web3.js</strong> — People spend hours listening to podcasts and Twitter spaces but dont get compensated for this time, with the power of Solana YapHouse solves this.</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<hr></hr>
+
+## 🚀 WEB3 Projects
+
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">ReactGen</h3>
+        <div align="center">
+          <a href="https://reactgen.vercel.app/" target="_blank">
+            <img src="https://www.yatharth-sriv.me/_next/image?url=%2Freactgen.png&w=640&q=100" width="100%" alt="ReactGen"/>
+          </a>
+          <br/>
+          <br/>
+          <p>
+            <a href="https://github.com/YATHARTH-Sriv/reactgen" target="_blank">
+              <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
+            </a>
+            <a href="https://reactgen.yatharth-sriv.me/" target="_blank">
+              <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+            </a>
+        </p>
+        <p><strong>Typescript, Nextjs, LLM </strong>-With The power of AI the Speed in which you can ship features to your application has increased to another degree, and to help you ship your frontend faster and increase your productivity ReactGen is here for your help..</p>
+      </div>
+    </td>
+    <td width="50%">
+      <h3 align="center">Content Manager</h3>
+      <div align="center">
+        <a href="https://content-manager-ai.vercel.app/" target="_blank">
+          <img src="https://www.yatharth-sriv.me/_next/image?url=%2Fcontentmanager.png&w=640&q=100 width="100%" alt="Content-Manager"/>
+        </a>
+        <br/>
+        <br/>
+        <p>
+          <a href="https://github.com/YATHARTH-Sriv/Content-manager" target="_blank">
+            <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
+          </a>
+          <a href="https://content-manager-ai.vercel.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live-Demo-green?style=for-the-badge&logo=vercel"/>
+          </a>
+        </p>
+        <p><strong>Next.js, MongoDB, Prisma, LLM</strong> — Generate Your Content For Twitter Linkedin Hashnode Blogs and also post them too with the help of AI..</p>
       </div>
     </td>
   </tr>
