@@ -12,6 +12,8 @@
 
 I'm a Full Stack Web3 Developer building apps for onboarding more people on Solana .
 
+## Currently Tracking My Rust Book Progress: https://github.com/YATHARTH-Sriv/learnrust
+
 ## 🔧 Tech Stack
 
 
@@ -27,7 +29,59 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
 ![Solana](https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white)
 
 
-## 🚀 WEB3 Projects
+## 🚀 Solana Projects
+
+ <table>
+    <tr>
+      <td width="50%">
+      <h3 align="center">Lottery Contract</h3>
+      <div align="center">
+        <a href="https://github.com/YATHARTH-Sriv/lottery" target="_blank">
+          <img src="https://raw.githubusercontent.com/YATHARTH-Sriv/project-images/refs/heads/main/ff279223-96bf-4bc0-bea9-76ea3d717227.png" width="100%" alt="YapHouse"/>
+        </a>
+        <br/>
+        <br/>
+        <p>
+          <a href="https://github.com/YATHARTH-Sriv/lottery" target="_blank">
+            <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
+          </a>
+        </p>
+        <p>
+          <strong> Typescript, Rust, Anchor, SwitchBoard Oracle For Randomness</strong>
+          <br/>
+          <br/>
+          — A Lottery Program on Solana With Initialising The Lottery creating the golden ticket and then letting people buy ticket after end finding winner and claiming prize</p>
+      </div>
+    </td>
+     <td width="50%">
+        <h3 align="center">Vesting Dapp</h3>
+        <div align="center">
+          <a href="https://github.com/YATHARTH-Sriv/vestingdapp" target="_blank">
+            <img src="https://raw.githubusercontent.com/YATHARTH-Sriv/project-images/refs/heads/main/ff279223-96bf-4bc0-bea9-76ea3d717227.png" width="100%" alt="SOLagent"/>
+          </a>
+          <br/>
+          <br/>
+          <p>
+            <a href="https://github.com/YATHARTH-Sriv/vestingdapp" target="_blank">
+              <img src="https://img.shields.io/badge/Code-GitHub-blue?style=for-the-badge&logo=github"/>
+            </a>
+        </p>
+        <p><strong>Typescript, Rust, Anchor</strong>
+          <br/>
+          <br/>
+          - A vesting Program is For Employers To Vest Tokens Set up vest time cliff time for the distribuiton of tokens to employees
+        </p>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<hr></hr>
+
+
+
+
+## 🚀 WEB3 Projects ( Too Ambitious Need Some More Time )
 
   <table>
     <tr>
@@ -141,7 +195,7 @@ I'm a Full Stack Web3 Developer building apps for onboarding more people on Sola
 
 ## 📌 Current Focus
 
-### currently reading: https://solanahowitworks.xyz/
+### currently reading: https://solanahowitworks.xyz
 
 
 ## 🎓 Education
